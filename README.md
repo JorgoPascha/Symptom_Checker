@@ -27,12 +27,13 @@ Erstellen eines Virtual Environment:
 ```
 py -3 -m venv venv
 venv\Scripts\activate
-pip install flask torch nltk numpy==1.19.3 sklearn pandas matplotlib
 ```
-Um nltk tokenization zu verwenden, muss das "punkt" package gedownloaded werden:
+Um nltk tokenization zu verwenden, muss folgende packages gedownloaded werden:
 ```
 import nltk
 nltk.download('punkt')
+nltk.download('wordnet')
+nltk.download('omw')
 ```
 In Python kann nun über Flask das Frontend aufgerufen werden. Sie können den Chatbot nun verwenden.
 ```
