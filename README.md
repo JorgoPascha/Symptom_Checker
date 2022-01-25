@@ -2,6 +2,19 @@
 
 ## Dokumentation
 
+### Einleitung
+
+Ein Chatbot, welcher mit dem Mensch interagiert und einer Symptomatik einem Krankheitsbild zuordnet.
+
+### Motivation
+Wahllose Google-Suchen durch fundiertes Wissen ablösen, Alternative zum direkten Arztbesuch, digitale (Zweit-)Meinung.
+
+### Ziel
+
+Chatbot entwickeln, welcher Symptomen mit hoher prozentualen Sicherheit die richtige Diagnose/Krankheit zuordnen kann.
+
+
+
 ### Backend
 
 ### Frontend
