@@ -46,5 +46,5 @@ Nach dem Wechsel zu Flask wurde das Frontend von grundauf neu aufgebaut und das 
 
 
 <div>
-<img src="https://github.com/JorgoPascha/Symptom_Checker/blob/main/assets/ChatbotFlask.png?raw=true" alt="Ergebnis Flask"/>
+<img src="https://github.com/JorgoPascha/Symptom_Checker/blob/main/assets/ChatbotFlaskVerbessert.png?raw=true" alt="Ergebnis Flask"/>
 </div>
