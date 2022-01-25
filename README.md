@@ -8,7 +8,7 @@ Das Frontend arbeitete anfangs mit Vue.js als PWA, wodurch folgende Erfolge erzi
 
 MockUp: 
 
-![Alt text](C:/Users/JORGO/Pictures/NLP/MockUp_HomeScreen "Mock-Up des Homescreens")
+![Alt text](SymptomChecker/MockUp_HomeScreen)
 
 
 ![Alt text](C:\Users\JORGO\Pictures\NLP\MockUp_Description "Mock-Up der Description")
