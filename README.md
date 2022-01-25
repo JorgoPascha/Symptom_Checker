@@ -1,6 +1,8 @@
 # Symptom_Checker
 
 ## Dokumentation
+## Disclaimer
+Dieser Chatbot ist ein rein wissenschaftliches Projekt. Er sollte nicht als Diagnosemittel für echte Krankheitssymptome verwendet werden.
 
 ### Getting Started: 
 
