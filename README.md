@@ -4,6 +4,24 @@
 
 ### Getting Started: 
 
+Folgende Bibliotheken werden benötigt um den Symptom Checker zu starten:
+```
+pip install numpy
+
+pip install pandas
+
+pip install nltk
+
+pip install spacy
+
+pip install python-rake
+
+pip install torch
+
+pip install sklearn
+
+pip install flask
+```
 ### Einleitung
 
 #### Team:
