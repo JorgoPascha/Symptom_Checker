@@ -43,6 +43,8 @@ Chatbot entwickeln, welcher Symptomen mit hoher prozentualen Sicherheit die rich
 
 ### Backend
 
+Dokumentation zum Backend ist im Jupyter Notebook zu finden.
+
 ### Frontend
 
 Das Frontend arbeitete anfangs mit Vue.js als PWA, wodurch folgende Erfolge erzielt werden:
