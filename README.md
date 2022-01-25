@@ -2,7 +2,12 @@
 
 ## Dokumentation
 
+### Getting Started: 
+
 ### Einleitung
+
+#### Team:
+Nico Heller (5538521), Lennart Schulz (3300490), Jonah Jäger (9431529), Marcel Winter (5542090), Georgios Paschaloglou (5405319), Laura Struss (4212678)
 
 Ein Chatbot, welcher mit dem Mensch interagiert und einer Symptomatik einem Krankheitsbild zuordnet.
 
