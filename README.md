@@ -8,10 +8,8 @@ Das Frontend arbeitete anfangs mit Vue.js als PWA, wodurch folgende Erfolge erzi
 
 MockUp: 
 
-![Alt text](SymptomChecker/MockUp_HomeScreen)
-
-
-![Alt text](C:\Users\JORGO\Pictures\NLP\MockUp_Description "Mock-Up der Description")
-
-
-![Alt text](C:\Users\JORGO\Pictures\NLP\MockUp_Chatbot "Mock-Up des Chatbots")
+<div>
+<img src="https://github.com/JorgoPascha/Symptom_Checker/main/MockUp_HomeScreen.png?raw=true" alt="iPhone" width="200"/>
+<img src="https://github.com/michael-spengler/Tracer-wwi19dsa/blob/main/doc/data/Screenshots/iphone_orange.png?raw=true" alt="iPhone" width="200"/>
+<img src="https://github.com/michael-spengler/Tracer-wwi19dsa/blob/main/doc/data/Screenshots/iphone-rot.png?raw=true" alt="iPhone" width="200"/>
+</div>
