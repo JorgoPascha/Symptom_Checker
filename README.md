@@ -28,3 +28,8 @@ Das in Vue.js erstellte Ergebnis:
 Bevor das Frontend fertiggestellt werden konnte, wurde versucht, dies mit dem Backend zu verbinden. Dies hat sich als sehr problematisch herausgestellt, da kein einfacher Weg vorhanden war, Pythonskripte in Vue auszuführen. Deshalb entschied sich das Team dazu, Flask zu verwenden, da dies sowieso benötigt wurde, um das Frontend mit dem Backend zu verbinden.
 
 Nach dem Wechsel zu Flask wurde das Frontend von grundauf neu aufgebaut und das Frontend-Team kam zu folgendem Ergebnis
+
+
+<div>
+<img src="https://github.com/JorgoPascha/Symptom_Checker/blob/main/assets/ChatbotFlask.png?raw=true" alt="Ergebnis Flask"/>
+</div>
