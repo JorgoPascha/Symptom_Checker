@@ -22,6 +22,9 @@ pip install sklearn
 
 pip install flask
 ```
+
+In Python kann nun über Flask das Frontend aufgerufen werden. Sie können den Chatbot nun verwenden.
+
 ### Einleitung
 
 #### Team:
