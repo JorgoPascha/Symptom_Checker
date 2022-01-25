@@ -29,7 +29,7 @@ py -3 -m venv venv
 venv\Scripts\activate
 pip install flask torch nltk numpy==1.19.3 sklearn pandas matplotlib
 ```
-Um nltk tokenization zu verwenden, wir muss das "punkt" package gedownloaded werden:
+Um nltk tokenization zu verwenden, muss das "punkt" package gedownloaded werden:
 ```
 import nltk
 nltk.download('punkt')
