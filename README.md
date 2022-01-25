@@ -14,13 +14,17 @@ Das vorgegebene MockUp:
 <img src="https://github.com/JorgoPascha/Symptom_Checker/blob/main/assets/MockUp_Description.png?raw=true" alt="Mock-Up Description" width="200"/>
 </div>
 
-Das in Vue.js erstellte Ergebnis:
-
+<br>
+Das in Vue.js erstellte Ergebnis:  
+<br>
+<br>
 
 <div>
-<img src="https://github.com/JorgoPascha/Symptom_Checker/blob/main/assets/VueHomeScreen.png?raw=true" alt="Ergebnis Homescreen" width="200"/>
-<img src="https://github.com/JorgoPascha/Symptom_Checker/blob/main/assets/VueChatbot.png?raw=true" alt="Ergebnis Chatbot" width="200"/>
-<img src="https://github.com/JorgoPascha/Symptom_Checker/blob/main/assets/VueDescription.png?raw=true" alt="Ergebnis Description" width="200"/>
+<img src="https://github.com/JorgoPascha/Symptom_Checker/blob/main/assets/VueHomeScreen.PNG?raw=true" alt="Ergebnis Homescreen" width="200"/>
+<img src="https://github.com/JorgoPascha/Symptom_Checker/blob/main/assets/VueChatbot.PNG?raw=true" alt="Ergebnis Chatbot" width="200"/>
+<img src="https://github.com/JorgoPascha/Symptom_Checker/blob/main/assets/VueDescription.PNG?raw=true" alt="Ergebnis Description" width="200"/>
 </div>
 
 Bevor das Frontend fertiggestellt werden konnte, wurde versucht, dies mit dem Backend zu verbinden. Dies hat sich als sehr problematisch herausgestellt, da kein einfacher Weg vorhanden war, Pythonskripte in Vue auszuführen. Deshalb entschied sich das Team dazu, Flask zu verwenden, da dies sowieso benötigt wurde, um das Frontend mit dem Backend zu verbinden.
+
+Nach dem Wechsel zu Flask wurde das Frontend von grundauf neu aufgebaut und das Frontend-Team kam zu folgendem Ergebnis
