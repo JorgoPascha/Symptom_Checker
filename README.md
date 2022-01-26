@@ -60,7 +60,7 @@ Chatbot entwickeln, welcher Symptomen mit hoher prozentualen Sicherheit die rich
 
 ### Backend
 
-Dokumentation zum Backend ist im Jupyter Notebook zu finden.
+Dokumentation zum Backend ist in den einzelnen Jupyter Notebooks und der app.py zu finden.
 
 ### Frontend
 
