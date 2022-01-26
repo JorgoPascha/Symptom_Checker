@@ -70,7 +70,7 @@ Nutzung von medizinischer Datenbank UMLS als Datengrundlage für Intents
 	daher die Datengrundlage nötig
 
 Weitere Modelle zur Diesease Prediciton verwenden
--> Ensamble learning
+-> Ensemble learning
 -> Bei Unsicherheit: Rückfragen nach weiteren ausschalggebendend Symptomen
 
 Multiclass Prediciton der Symptome:
