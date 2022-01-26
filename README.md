@@ -62,6 +62,32 @@ Chatbot entwickeln, welcher Symptomen mit hoher prozentualen Sicherheit die rich
 
 Dokumentation zum Backend ist in den einzelnen Jupyter Notebooks und der app.py zu finden.
 
+Weitere Ideen zur Optimierung bzw. Erweiterung des Chatbots:
+
+Nutzung von medizinischer Datenbank UMLS als Datengrundlage für Intents
+-> weiteres Datenmanagement aufgrund der Komplexität der Datenbank notwendig
+-> Für bestmögliche Diagnose sind sehr gute Intents nötig, sowohl qualitativ und quantitativ, 
+	daher die Datengrundlage nötig
+
+Weitere Modelle zur Diesease Prediciton verwenden
+-> Ensamble learning
+-> Bei Unsicherheit: Rückfragen nach weiteren ausschalggebendend Symptomen
+
+Multiclass Prediciton der Symptome:
+-> Bei Unsicherheit: User entscheiden lassen, welches Symptom er gemeint hat
+
+Profilerstellung:
+-> metrische Daten etc speichern können
+-> Vorerkrankungen im Profil speichern
+--> regelmäßige Abfrage des Chatbots wie es einem geht, welche Symptome existieren etc (Datenabfrage)
+
+Chatbot soll mit mehreren Symptomen des Users gleichzeitug umgehen können
+-> Userinput wird dadurch länger (evenetuell Verwendung von POS-Tagging/ Entity Recognition möglich?)
+
+Automatische Rechtschreibprüfung von den eingegebenen Symptomen
+
+
+
 ### Frontend
 
 Das Frontend arbeitete anfangs mit Vue.js als PWA, wodurch folgende Erfolge erzielt werden:
