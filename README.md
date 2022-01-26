@@ -62,7 +62,7 @@ Chatbot entwickeln, welcher Symptomen mit hoher prozentualen Sicherheit die rich
 
 Dokumentation zum Backend ist in den einzelnen Jupyter Notebooks und der app.py zu finden.
 
-Weitere Ideen zur Optimierung bzw. Erweiterung des Chatbots:
+#### Weitere Ideen zur Optimierung bzw. Erweiterung des Chatbots:
 
 Nutzung von medizinischer Datenbank UMLS als Datengrundlage für Intents
 -> weiteres Datenmanagement aufgrund der Komplexität der Datenbank notwendig
