@@ -4,7 +4,9 @@
 ### Disclaimer
 Dieser Chatbot ist ein rein wissenschaftliches Projekt. Er sollte nicht als Diagnosemittel für echte Krankheitssymptome verwendet werden.
 
-### Getting Started: 
+### Getting Started:
+
+Kaggle Dataset: https://www.kaggle.com/captaintyping/healthcare-domain-dataset
 
 Folgende Bibliotheken werden benötigt um den Symptom Checker zu starten:
 ```
